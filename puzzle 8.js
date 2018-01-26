@@ -1,0 +1,57 @@
+Function (Snake){
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  right();
+  right();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  right();
+  right();
+}
+Function (Snake){
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  right();
+  right();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  right();
+  right();
+}
+down();
+down();
+down();
+down();
+down();
+down();
+down();
+down();
+right();
