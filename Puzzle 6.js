@@ -1,0 +1,15 @@
+right();
+GetColor();
+var(A)=GetColor(pink);
+var(B)=GetColor(blue;
+if(A==pink){up};
+if(B==blue){down};
+up();
+up();
+up();
+GetColor();
+var(A)=GetColor(pink);
+var(B)=GetColor(blue;
+if(A==pink){left};
+if(B==blue){right};
+up();
