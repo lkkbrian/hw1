@@ -1,12 +1,12 @@
 down();
 down();
-var(X)=GetColor(blue);
+var X = getColor();
 down();
 down();
 down();
 right();
 right();
-SetColor(blue);
+setColor(X);
 right();
-if GetColor(blue)==right
+right();
 up();
