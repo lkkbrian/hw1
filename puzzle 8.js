@@ -1,4 +1,4 @@
-Function (Snake){
+function Snake () {
   down();
   down();
   down();
@@ -22,7 +22,8 @@ Function (Snake){
   right();
   right();
 }
-Function (Snake){
+Snake();
+function Snake () {
   down();
   down();
   down();
@@ -46,6 +47,7 @@ Function (Snake){
   right();
   right();
 }
+Snake();
 down();
 down();
 down();
