@@ -1,27 +1,28 @@
-while(down){GetColor};
-var(A)=GetColor(pink);
-if(A==pink){right};
-GetColor();
-var(B)=GetColor(white);
-if(B==white){right};
-while(up){GetColor};
-var(A)=GetColor(pink);
-if(A==pink){right};
-GetColor();
-var(B)=GetColor(white);
-if(B==white){right};
-while(down){GetColor};
-var(A)=GetColor(pink);
-if(A==pink){right};
-GetColor();
-var(B)=GetColor(white);
-if(B==white){right};
-while(up){GetColor};
-var(A)=GetColor(pink);
-if(A==pink){right};
-GetColor();
-var(B)=GetColor(white);
-if(B==white){right};
-while(down){GetColor};
-var(A)=GetColor(pink);
-if(A==pink){right};
+
+var X = getColor() 
+function downwards() {
+  while (getColor() != "red")
+ 	down(); 
+ if (getColor() == "red") {
+    right();
+    right();
+}
+}
+downwards();
+var X = getColor() 
+function upwards() {
+  while (getColor() != "red")
+ 	up(); 
+ if (getColor() == "red") {
+    right();
+    right();
+}
+}
+upwards();
+downwards();
+upwards();
+ while (getColor() != "red")
+ 	down(); 
+ if (getColor() == "red") {
+    right();
+}
