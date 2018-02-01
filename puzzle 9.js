@@ -1,36 +1,11 @@
-down();
-down();
-down();
-down();
-down();
-down();
-down();
-down();
-down();
-right();
-right();
-right();
-right();
-right();
-right();
-right();
-right();
-right();
-up();
-up();
-up();
-up();
-up();
-up();
-up();
-up();
-up();
-left();
-left();
-left();
-left();
-left();
-left();
-left();
-left();
-left();
+var x = 0
+while (x <= 100) {
+  down();
+  x = x + 1;
+}
+
+var y = 0
+while (y <= 100) {
+  right();
+  y = y + 1;
+}
